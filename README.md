@@ -57,7 +57,7 @@ Four classification models were trained and hyperparameter-tuned using 10-fold C
 
 ---
 
-## 🚀 How to Run Locally
+##  How to Run Locally
 
 1. **Clone the repository:**
    ```bash
